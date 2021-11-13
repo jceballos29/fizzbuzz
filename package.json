@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Programa que imprime una lista de números, cuando el número sea multiplo de 3 imprime la palabra \"fizz\", cuando sea multiplo de 5 imprime la palabra \"buzz\" y si es multiplo de ambos imprime la platabra \"fizzbuzz\"",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jceballos29/fizzbuzz.git"
+  },
+  "author": "Juan Ceballos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jceballos29/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/jceballos29/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
